@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "cc.neuanfang.neuanfang_utils.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
