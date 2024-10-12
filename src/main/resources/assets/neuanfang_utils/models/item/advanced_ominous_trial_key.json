@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "basic_economy:item/advanced_ominous_trial_key"
+    "layer0": "neuanfang_utils:item/advanced_ominous_trial_key"
   }
 }
